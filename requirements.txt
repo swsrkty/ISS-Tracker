@@ -1,4 +1,5 @@
 ###### Requirements ######
+PyQt5
 plotly
 pandas
 requests
